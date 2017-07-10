@@ -1,7 +1,7 @@
 # ts-webcomps
 
 This is a complete "Best Practices" starter project that uses standard web components in a multi-page application. No more "Component already registered" errors. For ulta-rapid page display, all components are late-loaded. Loosely coupled component communication using streams.
-Confirmed to work in all major browsers and IE11.
+Confirmed to work in all major browsers and IE11. View all of README.md below.
 
 <img src='webcomps.png'/>
 
